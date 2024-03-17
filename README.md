@@ -11,4 +11,5 @@ fully decompiled version of vision v.0.0.1 BETA test .jar file
    \  $/   | $$ /$$$$$$$/| $$|  $$$$$$/| $$  | $$      |  $$$$$$$| $$| $$|  $$$$$$$| $$  | $$  |  $$$$/         \  $/    /$$|  $$$$$$/ /$$|  $$$$$$/ /$$ /$$$$$$      | $$$$$$$/| $$$$$$$$   | $$   | $$  | $$
     \_/    |__/|_______/ |__/ \______/ |__/  |__/       \_______/|__/|__/ \_______/|__/  |__/   \___/            \_/    |__/ \______/ |__/ \______/ |__/|______/      |_______/ |________/   |__/   |__/  |__/
 ```
-just so anyone knows you can do whatever you want with this client, you can make a rat crack it make a virus version or even add malware anyway i cant stop you and ill probably not even know about it as long as im not involved in it your good just so you know i am not responsible for the consequences caused by other people making ratted versions or a malware added version of this client but still be careful and only use this page for this client. -thanks
+i encourage anyone who wants to to make a skid of the client but not to make a ratted or to add malware to the client but if you do i am not responible for the damage or the consequences but i cant stop you anyway
+-enjoy
